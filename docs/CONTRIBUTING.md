@@ -2,14 +2,14 @@
 
 ## 動作要件
 
-|                           ツール                            |                                                  バージョン                                                   |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Node.js                                                     | [.node-version](https://github.com/haru52/base_template_ja/blob/main/.node-version#L1)                        |
-| npm                                                         | [package.json](https://github.com/haru52/base_template_ja/blob/main/package.json) における `engines.npm` の値 |
-| [gibo](https://github.com/simonwhitaker/gibo#readme)        | ^2.2.8                                                                                                        |
-| [yamllint](https://yamllint.readthedocs.io/)                | ^1.32.0                                                                                                       |
-| [ShellCheck](https://github.com/koalaman/shellcheck#readme) | >=0.9.0 <1.0.0                                                                                                |
-| [actionlint](https://github.com/rhysd/actionlint#readme)    | [.tool-versions](https://github.com/haru52/base_template_ja/blob/main/.tool-versions)                         |
+|                           ツール                            |                                                     バージョン                                                     |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Node.js                                                     | [.node-version](https://github.com/haru52/magic_lecture_license/blob/main/.node-version#L1)                        |
+| npm                                                         | [package.json](https://github.com/haru52/magic_lecture_license/blob/main/package.json) における `engines.npm` の値 |
+| [gibo](https://github.com/simonwhitaker/gibo#readme)        | ^2.2.8                                                                                                             |
+| [yamllint](https://yamllint.readthedocs.io/)                | ^1.32.0                                                                                                            |
+| [ShellCheck](https://github.com/koalaman/shellcheck#readme) | >=0.9.0 <1.0.0                                                                                                     |
+| [actionlint](https://github.com/rhysd/actionlint#readme)    | [.tool-versions](https://github.com/haru52/magic_lecture_license/blob/main/.tool-versions)                         |
 
 ## 規約
 
@@ -33,8 +33,8 @@
 ## インストール
 
 ```sh
-git clone --recursive git@github.com:<your org>/base_template_ja.git
-cd base_template_ja
+git clone --recursive git@github.com:<your org>/magic_lecture_license.git
+cd magic_lecture_license
 make dev-install
 ```
 
