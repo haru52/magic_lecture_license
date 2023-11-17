@@ -56,7 +56,7 @@
     "prettier": "^3.0.2",
     "secretlint": "^7.0.7",
     "semantic-release": "^21.0.7",
-    "textlint": "^13.3.3",
+    "textlint": "^13.4.0",
     "textlint-filter-rule-allowlist": "^4.0.0",
     "textlint-filter-rule-comments": "^1.2.2",
     "textlint-rule-preset-japanese": "^8.0.0",
