@@ -54,13 +54,20 @@ https://haru52.com/magic_lecture_license/magic_lecture_license/vX.Y.Z.html
 
 Magic Lecture License が使われることで、マジックの秘密を守ることと知識の伝達が両立されることを期待しています。
 
+### 問い合わせ
+
+- [Issues · haru52/magic_lecture_license](https://github.com/haru52/magic_lecture_license/issues)
+- [haru 連絡フォーム](https://docs.google.com/forms/d/e/1FAIpQLSddUF5PDhRpYPZ8VGVZClTBQCo-SQb4QzszOZanmWjUnH_stw/viewform?usp=sf_link)
+
 ## バージョニングポリシー
 
 [セマンティック バージョニング 2.0.0](https://semver.org/lang/ja/spec/v2.0.0.html)
 
 ## ライセンス
 
-[WTFPL](LICENSE)
+- [WTFPL](LICENSE)
+- Magic Lecture License という当ライセンス文書自体のライセンスが WTFPL です
+- WTFPL ライセンスは原則として利用者にいかなる制限も課さないため、Magic Lecture License を自由に改変するなどして利用いただくことができます
 
 ## コントリビューション
 
