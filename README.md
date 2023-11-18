@@ -65,9 +65,9 @@ Magic Lecture License が使われることで、マジックの秘密を守る�
 
 ## ライセンス
 
-- [WTFPL](LICENSE)
-- Magic Lecture License という当ライセンス文書自体のライセンスが WTFPL です
-- WTFPL ライセンスは原則として利用者にいかなる制限も課さないため、Magic Lecture License を自由に改変するなどして利用いただくことができます
+- [CC0-1.0](LICENSE)（[日本語](https://creativecommons.org/publicdomain/zero/1.0/legalcode.ja)）
+- Magic Lecture License という当ライセンス文書自体を利用・改変などする場合に適用されるライセンスが CC0 です
+- CC0 は原則として利用者にいかなる制限も課さないため、Magic Lecture License を自由に改変するなどして利用いただくことができます
 
 ## コントリビューション
 
