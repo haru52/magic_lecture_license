@@ -4,8 +4,8 @@
   "description": "マジック商品やレクチャーなどに付与し、その利用方法を規定するライセンス。",
   "private": true,
   "engines": {
-    "node": "^18.17.1",
-    "npm": "^9.8.1"
+    "node": "^20.9.0",
+    "npm": "^10.2.4"
   },
   "main": "index.js",
   "scripts": {
