@@ -10,7 +10,7 @@
 
 マジック（手品）を解説する書籍やレクチャービデオに付与するライセンスです。このライセンスは、レクチャーの購入者が、レクチャー内の手順や技法などに対して有する権利（演技権など）や義務（タネ明かししないことなど）を規定します。
 
-[Magic Lecture License ライセンス本文](https://haru52.github.io/magic_lecture_license/versions)
+[Magic Lecture License ライセンス本文](https://haru52.github.io/magic_lecture_license/versions/)
 
 ## 利用方法
 
