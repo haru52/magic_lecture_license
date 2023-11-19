@@ -1,7 +1,7 @@
 {
   "name": "magic-lecture-license",
   "version": "0.1.0",
-  "description": "マジック商品やレクチャーなどに付与し、その利用方法を規定するライセンス。",
+  "description": "マジック（手品）を解説する書籍やレクチャービデオに付与するライセンスです。",
   "private": true,
   "engines": {
     "node": "^20.9.0",
