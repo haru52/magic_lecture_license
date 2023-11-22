@@ -22,13 +22,13 @@
 
 <!-- textlint-disable prh -->
 1. 当ライセンスを適用したい製品内や Web サイトに以下の文言を貼り付けてください
-2. 貼り付けたテキスト内の `<>` と `X.Y.Z` を適切な文言に置き換えてください
+2. 貼り付けたテキスト内の `<>` と `1.0.0` を適切な文言に置き換えてください
 <!-- textlint-enable prh -->
 
 ```txt
-<本製品 | 本書 | 当映像 | 当ショップ | 当 Web サイト | 当レクチャー>に含まれるすべてのコンテンツは、次の Magic Lecture License vX.Y.Z の下でのみ利用可能です。
+<本製品 | 本書 | 当映像 | 当ショップ | 当 Web サイト | 当レクチャー>に含まれるすべてのコンテンツは、次の Magic Lecture License v1.0.0 の下でのみ利用可能です。
 
-https://haru52.com/magic_lecture_license/versions/vX.Y.Z.html
+https://haru52.com/magic_lecture_license/versions/v1.0.0.html
 ```
 
 - メリット：製品内などに貼り付ける文章量が少なく済み、手軽
@@ -36,7 +36,7 @@ https://haru52.com/magic_lecture_license/versions/vX.Y.Z.html
 
 ### 利用方法 B
 
-1. <https://haru52.com/magic_lecture_license/versions/vX.Y.Z.md> の `X.Y.Z` を利用したいライセンスのバージョンに置き換えてください
+1. <https://haru52.com/magic_lecture_license/versions/v1.0.0.md> の `1.0.0` を利用したいライセンスのバージョンに置き換えてください
 2. 1 で生成した URL にアクセスしてください
 3. リンク先のライセンス本文をすべてコピーしてください
 4. コピーしたテキストを、ライセンスを適用したい製品内や Web サイトに貼り付けてください
