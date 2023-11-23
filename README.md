@@ -8,7 +8,7 @@
 
 ## 概要
 
-マジック（手品）を解説する書籍やレクチャービデオに付与するライセンスです。このライセンスは、レクチャーの購入者が、レクチャー内の手順や技法などに対して有する権利（演技権など）や義務（タネ明かししないことなど）を規定します。
+マジック（手品）を解説する書籍やレクチャービデオなどに付与するライセンスです。このライセンスは、レクチャーの購入者が、レクチャー内で解説されている手順や技法などに対して有する権利（演技権など）と禁止事項（タネ明かししないことなど）を規定します。
 
 [Magic Lecture License ライセンス本文](https://haru52.github.io/magic_lecture_license/versions/)
 
@@ -68,7 +68,7 @@ https://haru52.com/magic_lecture_license/versions/v1.0.0.html
 以上より、現在のマジックの書籍やレクチャービデオなどの販売形態には、「1. マジックの秘密を守ること」、「2. マジシャン間で活発に知識を伝達すること」という 2 つの命題をうまく両立できていないという課題があるといえます。
 <!-- textlint-disable japanese/sentence-length -->
 
-そこで、この課題を解決するために Magic Lecture License を作りました。これは、マジックの書籍などに付帯させ、レクチャー内容について購入者が有する権利や禁止事項などを明記した文書です。特徴として、悪質なタネ明かしなどは論外として、演技権などは極力制限せず、購入者にとって緩やかな制限に留めています。
+そこで、この課題を解決するために Magic Lecture License を作りました。これは、マジックの書籍などに付帯させ、レクチャー内容について購入者が有する権利や禁止事項などを明記した文書です。特徴として、悪質なタネ明かしなどは当然禁じる一方、購入者がレクチャー手順を演じることや、レクチャー技法を他の手順に応用することなどは極力制限せず、購入者にとって緩やかな制限となるようにしています。
 
 Magic Lecture License の利用により、マジックの秘密を守りつつマジシャン間で活発に知識が伝達されるようになることを期待しています。
 
@@ -93,7 +93,12 @@ Magic Lecture License の利用により、マジックの秘密を守りつつ�
 
 ## ドキュメント
 
-[ドキュメント | magic_lecture_license](https://haru52.github.io/magic_lecture_license/)
+- [Magic Lecture License ライセンス本文](versions)
+- [Changelog](docs/CHANGELOG.md)
+- [コントリビューター行動規範](docs/CODE_OF_CONDUCT.md)
+- [コントリビューティングガイドライン](docs/CONTRIBUTING.md)
+- [セキュリティポリシー](docs/SECURITY.md)
+- [GitHub リポジトリ](https://github.com/haru52/magic_lecture_license#readme)
 
 ## 作者
 
