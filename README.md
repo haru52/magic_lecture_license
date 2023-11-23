@@ -2,7 +2,7 @@
 
 [![Test](https://github.com/haru52/magic_lecture_license/actions/workflows/test.yml/badge.svg)](https://github.com/haru52/magic_lecture_license/actions/workflows/test.yml)
 [![Release](https://github.com/haru52/magic_lecture_license/actions/workflows/release.yml/badge.svg)](https://github.com/haru52/magic_lecture_license/actions/workflows/release.yml)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](https://haru52.github.io/magic_lecture_license/CODE_OF_CONDUCT.html)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](https://haru52.com/magic_lecture_license/CODE_OF_CONDUCT.html)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://commitizen.github.io/cz-cli/)
 [![semantic-release: conventionalcommits](https://img.shields.io/badge/semantic--release-conventionalcommits-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
 
@@ -10,7 +10,7 @@
 
 マジック（手品）を解説する書籍やレクチャービデオなどに付与するライセンスです。このライセンスは、レクチャーの購入者が、レクチャー内で解説されている手順や技法などに対して有する権利（演技権など）と禁止事項（タネ明かししないことなど）を規定します。
 
-[Magic Lecture License ライセンス本文](https://haru52.github.io/magic_lecture_license/versions/)
+[Magic Lecture License ライセンス本文](https://haru52.com/magic_lecture_license/versions/)
 
 ## 利用方法
 
@@ -77,6 +77,13 @@ Magic Lecture License の利用により、マジックの秘密を守りつつ�
 - [Issues · haru52/magic_lecture_license](https://github.com/haru52/magic_lecture_license/issues)
 - [haru 連絡フォーム](https://docs.google.com/forms/d/e/1FAIpQLSddUF5PDhRpYPZ8VGVZClTBQCo-SQb4QzszOZanmWjUnH_stw/viewform?usp=sf_link)
 
+### リンク
+
+- [Changelog](docs/CHANGELOG.md)
+- [コントリビューター行動規範](docs/CODE_OF_CONDUCT.md)
+- [セキュリティポリシー](docs/SECURITY.md)
+- [GitHub リポジトリ](https://github.com/haru52/magic_lecture_license)
+
 ## バージョニングポリシー
 
 [セマンティック バージョニング 2.0.0](https://semver.org/lang/ja/spec/v2.0.0.html)
@@ -89,16 +96,11 @@ Magic Lecture License の利用により、マジックの秘密を守りつつ�
 
 ## コントリビューション
 
-[コントリビューティングガイドライン](https://haru52.github.io/magic_lecture_license/CONTRIBUTING.html)
+[コントリビューティングガイドライン](https://haru52.com/magic_lecture_license/docs/CONTRIBUTING.html)
 
 ## ドキュメント
 
-- [Magic Lecture License ライセンス本文](versions)
-- [Changelog](docs/CHANGELOG.md)
-- [コントリビューター行動規範](docs/CODE_OF_CONDUCT.md)
-- [コントリビューティングガイドライン](docs/CONTRIBUTING.md)
-- [セキュリティポリシー](docs/SECURITY.md)
-- [GitHub リポジトリ](https://github.com/haru52/magic_lecture_license#readme)
+[Magic Lecture License \| magic_lecture_license](https://haru52.com/magic_lecture_license/)
 
 ## 作者
 
