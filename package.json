@@ -1,6 +1,6 @@
 {
   "name": "magic-lecture-license",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "マジック（手品）本などの購入者に対して権利と義務を規定するライセンス。",
   "private": true,
   "engines": {
