@@ -68,13 +68,13 @@ https://haru52.com/magic_lecture_license/versions/v1.0.0.html
 以上より、現在のマジックの書籍やレクチャービデオなどの販売形態には、「1. マジックの秘密を守ること」、「2. マジシャン間で活発に知識を伝達できるようにすること」、「3. マジシャンが自由にマジックを演じられるようにすること」という 3 つの命題をうまく両立できていないという課題があるといえます。
 <!-- textlint-disable japanese/sentence-length -->
 
-そこで、この課題を解決するために Magic Lecture License を作りました。これは、マジックの書籍などに付帯させ、レクチャー内容に対して購入者が有する権利と購入者が負う義務を明記した文書です。特徴として、タネ明かしなどを禁じてマジックの秘密を守りつつ、購入者がレクチャー手順を演じることや、レクチャー技法を新しい技法に発展させることなどを極力制限しないようにしている点があります。
+そこで、この課題を解決するために Magic Lecture License を作りました。これは、マジックの書籍などに付帯させ、レクチャー内容に対して購入者が有する権利と購入者が負う義務を明記した文書です。特徴として、タネ明かしなどを禁じてマジックの秘密を守りつつ、購入者がレクチャー手順を演じることや、レクチャー技法を新しい技法に発展させることなどは極力制限しないようにしている点があります。
 
 Magic Lecture License の利用により、マジックの秘密を守りつつ、マジシャンがより自由に活動できるようになることを期待しています。
 
 ### 問い合わせ
 
-- [Issues · haru52/magic_lecture_license](https://github.com/haru52/magic_lecture_license/issues)
+- [New Issue · haru52/magic_lecture_license](https://github.com/haru52/magic_lecture_license/issues/new/choose)
 - [haru 連絡フォーム](https://docs.google.com/forms/d/e/1FAIpQLSddUF5PDhRpYPZ8VGVZClTBQCo-SQb4QzszOZanmWjUnH_stw/viewform?usp=sf_link)
 
 ### リンク
