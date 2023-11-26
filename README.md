@@ -75,7 +75,7 @@ Magic Lecture License の利用により、マジックの秘密を守りつつ�
 ### 問い合わせ
 
 - [New Issue · haru52/magic_lecture_license](https://github.com/haru52/magic_lecture_license/issues/new/choose)
-- [haru 連絡フォーム](https://docs.google.com/forms/d/e/1FAIpQLSddUF5PDhRpYPZ8VGVZClTBQCo-SQb4QzszOZanmWjUnH_stw/viewform?usp=sf_link)
+- [haru 問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSddUF5PDhRpYPZ8VGVZClTBQCo-SQb4QzszOZanmWjUnH_stw/viewform?usp=sf_link)
 
 ### リンク
 

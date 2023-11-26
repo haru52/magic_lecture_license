@@ -46,7 +46,7 @@
 
 ## 執行
 
-虐待的、嫌がらせ、またはその他の許容できない行動の事例は、執行を担当するコミュニティリーダーに対して[haruの連絡フォーム](https://docs.google.com/forms/d/e/1FAIpQLSddUF5PDhRpYPZ8VGVZClTBQCo-SQb4QzszOZanmWjUnH_stw/viewform?usp=sf_link)で報告される場合があります。
+虐待的、嫌がらせ、またはその他の許容できない行動の事例は、執行を担当するコミュニティリーダーに対して[haruの問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSddUF5PDhRpYPZ8VGVZClTBQCo-SQb4QzszOZanmWjUnH_stw/viewform?usp=sf_link)で報告される場合があります。
 すべての苦情は迅速かつ公正にレビューおよび調査されます。
 
 すべてのコミュニティリーダーは、問題の報告者のプライバシーとセキュリティを尊重する義務があります。
